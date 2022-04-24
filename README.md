@@ -15,6 +15,11 @@ Construction of a test jig to determine the correct values for a CRC\* snubber, 
 \*here we use a three element "CRC" snubber on the secondary side of the transformer  
 and the exact values for Cx, Rs and Cs (individually for each transformer type) are determined with our "Quasimodo" test jig and an oscilloscope.  
 <img src="docs/three_element_CRC_Snubber.png">  
+  
+----
+
+see as well this excellent article by Mark Johnson about this topic   
+"Soft Recovery Diodes Lower Transformer Ringing by 10-20X"
 
 ----
 
