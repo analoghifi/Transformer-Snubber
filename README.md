@@ -5,7 +5,10 @@ very effective transformer secondary snubber - without "Rectifier snubbing", the
 
 Please read the doc:  
 "<a href="docs/Quasimodo_jig_revA.pdf">Simple, No-Math Transformer Snubber using “Quasimodo” Test Jig</a>" by Mark Johnson  
-this is what this repo is all about
+  
+That's what this repo is about:  
+Construction of a test device to determine the correct values for a CRC snubber, which fits individually to the measured transformer type, so that no overshoot (=ringing / noise) occurs.  
+<img src="hardware/THT/Quasimodo_V4_TH_photo.jpg">  
 
 ----
 
