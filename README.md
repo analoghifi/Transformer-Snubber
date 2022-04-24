@@ -4,7 +4,7 @@ very effective transformer secondary snubber - without "Rectifier snubbing", the
 ----
 
 Please read the doc:  
-"<a href="docs/Quasimodo_jig_revA.pdf">Simple, No-Math Transformer Snubber using “Quasimodo” Test Jig</a>" by Mark Johnson  
+"<a href="docs/Quasimodo_jig_revA.pdf">Simple, No-Math Transformer Snubber using “Quasimodo” Test Jig.pdf</a>" by Mark Johnson  
   
 That's what this repo is about:  
 Construction of a test jig to determine the correct values for a CRC\* snubber, which fits individually to the measured transformer type, so that no overshoot (=ringing / noise) occurs.  
@@ -18,8 +18,8 @@ and the exact values for Cx, Rs and Cs (individually for each transformer type) 
   
 ----
 
-see as well this excellent article by Mark Johnson about this topic   
-"Soft Recovery Diodes Lower Transformer Ringing by 10-20X"
+see as well this excellent article by Mark Johnson about the basics and backgrounds of this topic   
+"<a href="docs/related/Soft Recovery Diodes Lower Transformer Ringing by 10-20X.pdf">Soft Recovery Diodes Lower Transformer Ringing by 10-20X.pdf</a>"
 
 ----
 
