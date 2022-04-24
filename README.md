@@ -12,7 +12,7 @@ Construction of a test jig to determine the correct values for a CRC* snubber, w
 
 ----
 
-Here we use a three element "CRC" snubber on the secondary side of the transformer  
+\*here we use a three element "CRC" snubber on the secondary side of the transformer  
 and the exact values for Cx, Rs and Cs (individually for each transformer type) are determined with our "Quasimodo" test jig.  
 <img src="docs/three_element_CRC_Snubber.png">  
 
