@@ -8,6 +8,7 @@ Please read the doc:
   
 That's what this repo is about:  
 Construction of a test jig to determine the correct values for a CRC\* snubber, which fits individually to the measured transformer type, so that no overshoot (=ringing / noise) occurs.  
+(see as well this <a href="https://www.diyaudio.com/community/threads/simple-no-math-transformer-snubber-using-quasimodo-test-jig.243100/#post-3645210">forum thread</a> on <a href="https://www.diyaudio.com/community/forums/-/list">diyaudio.com</a> forums)   
 <img src="hardware/THT/Quasimodo_V4_TH_photo.jpg">  
 
 ----
