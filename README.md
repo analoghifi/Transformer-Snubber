@@ -32,6 +32,6 @@ Backup here: <a href="docs/related/Power Tips Calculate an R-C snubber in seven 
 ----  
 ### Kicad projects in this repo:  
 * [quasimodo THT](https://github.com/analoghifi/Transformer-Snubber/tree/main/hardware/KiCad/THT/original) | state: initial release v1.01 | like the original, 2-layer, THT
-* [quasimodo SMD](https://github.com/analoghifi/Transformer-Snubber/tree/main/hardware/KiCad/SMD/original) | state: comin soon... | like the original, 2-layer, SMD
+* [quasimodo SMD](https://github.com/analoghifi/Transformer-Snubber/tree/main/hardware/KiCad/SMD/original) | state: coming soon... | like the original, 2-layer, SMD
 
 ----
